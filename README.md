@@ -30,6 +30,11 @@ To start the game, run the following command:
 python snake_game.py
 ```
 
+
+## Game Screenshot
+![image](https://github.com/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game/assets/827993/d7d6c767-df93-4260-b527-2b55c02b9c21)
+
+
 Use the arrow keys to control the snake. The objective is to eat food and avoid collisions with the walls and the snake's own body. The game ends if the snake collides or if you lose all lives.
 
 ## License
