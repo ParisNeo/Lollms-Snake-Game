@@ -38,7 +38,8 @@ python snake_game.py
 ![image](https://github.com/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game/assets/827993/d7d6c767-df93-4260-b527-2b55c02b9c21)
 
 ### V2
-![image](https://github.com/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game/assets/827993/f5a860d9-6d55-4e26-aaac-2e7eb24a7fe5)
+![image](https://github.com/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game/assets/827993/36498cd7-098c-4383-a2fb-38a91dd1aec7)
+
 
 
 Use the arrow keys to control the snake. The objective is to eat food and avoid collisions with the walls and the snake's own body. The game ends if the snake collides or if you lose all lives.
