@@ -1,4 +1,4 @@
-# Lollms' GPT3.5-turbo Snake Game
+# Lollms' Snake Game
 [![GitHub stars](https://img.shields.io/github/stars/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game.svg)](https://github.com/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game/stargazers)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/ParisNeo/Lollms-GPT3.5-turbo-Snake-Game/blob/main/LICENSE)
 [![Pygame version](https://img.shields.io/badge/Pygame-2.0.1-blue.svg)](https://pypi.org/project/pygame/2.0.1/)
