@@ -42,6 +42,10 @@ python snake_game.py
 
 
 
+### V4
+![image](https://github.com/user-attachments/assets/9de68797-00e0-4fd7-97e6-f0ef070bce73)
+
+
 Use the arrow keys to control the snake. The objective is to eat food and avoid collisions with the walls and the snake's own body. The game ends if the snake collides or if you lose all lives.
 
 ## License
